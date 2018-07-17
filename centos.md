@@ -18,3 +18,8 @@ dns=none
 ### now test
 [plenoir@1lxplenoir-pad ~]$ host qpdpekfk24101-int
 qpdpekfk24101-int.devqa.exch.int has address 172.26.160.14
+
+ppdmoifd07901.prod.exch.int
+ppdmoifd07902.prod.exch.int
+ppdmoifd07903.prod.exch.int
+ppdmoifd07904.prod.exch.int
