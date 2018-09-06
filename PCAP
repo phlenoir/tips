@@ -1,0 +1,32 @@
+-rw-r--r--. 1 opcap glb-apps  51834516487 Aug  1 01:43 2018-07-31.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  53966736023 Aug  2 01:54 2018-08-01.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  59667973840 Aug  3 02:10 2018-08-02.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  54205814271 Aug  4 01:54 2018-08-03.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  51882736182 Aug  7 01:46 2018-08-06.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  45269224805 Aug  8 01:23 2018-08-07.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  48836079310 Aug  9 01:34 2018-08-08.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  46935293230 Aug 10 01:28 2018-08-09.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  65619467687 Aug 11 02:37 2018-08-10.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  58366584141 Aug 14 02:03 2018-08-13.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  53192527563 Aug 15 01:47 2018-08-14.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  65535126602 Aug 16 02:29 2018-08-15.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  51109879636 Aug 17 01:40 2018-08-16.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  56573250070 Aug 18 01:58 2018-08-17.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  43659369240 Aug 21 01:16 2018-08-20.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  42623778145 Aug 22 01:13 2018-08-21.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  47689098452 Aug 23 01:29 2018-08-22.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  43152529069 Aug 24 01:14 2018-08-23.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  44064117814 Aug 25 01:19 2018-08-24.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  36678217183 Aug 28 00:55 2018-08-27.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  43329447070 Aug 29 01:16 2018-08-28.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  44998476391 Aug 30 01:20 2018-08-29.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  50284298189 Aug 31 01:38 2018-08-30.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  51492795876 Sep  1 01:41 2018-08-31.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  39319509758 Sep  4 01:01 2018-09-03.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  64507922968 Sep  5 02:35 2018-09-04.mdg.pcap.gz
+-rw-r--r--. 1 opcap glb-apps  65529549422 Sep  6 02:29 2018-09-05.mdg.pcap.gz
+
+
+[PROD] opcap@ppdpecap07902 (~)$ gunzip -l /backup-data_pecap/full-day-pcaps/ppdpecap07901/2018-09-05.mdg.pcap.gz
+         compressed        uncompressed  ratio uncompressed_name
+        65529549422          3692038157 -1674.9% /backup-data_pecap/full-day-pcaps/ppdpecap07901/2018-09-05.mdg.pcap
