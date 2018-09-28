@@ -19,7 +19,25 @@ dns=none
 [plenoir@1lxplenoir-pad ~]$ host qpdpekfk24101-int
 qpdpekfk24101-int.devqa.exch.int has address 172.26.160.14
 
-ppdmoifd07901.prod.exch.int
-ppdmoifd07902.prod.exch.int
-ppdmoifd07903.prod.exch.int
-ppdmoifd07904.prod.exch.int
+
+## docker
+
+### install Docker
+https://docs.docker.com/install/linux/docker-ce/centos/#install-docker-ce
+
+### Configure Docker to start on boot
+
+Most current Linux distributions (RHEL, CentOS, Fedora, Ubuntu 16.04 and higher) use systemd to manage which services start when the system boots.
+
+$ sudo systemctl enable docker
+
+To disable this behavior, use disable instead.
+
+$ sudo systemctl disable docker
+
+
+### Docker behind a proxy
+https://stackoverflow.com/questions/23111631/cannot-download-docker-images-behind-a-proxy
+
+### Fix permission issue
+https://stackoverflow.com/questions/44065827/jenkins-wrong-volume-permissions
